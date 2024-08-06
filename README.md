@@ -4,9 +4,9 @@ Welcome to my repository of PHP projects! This repository is a collection of sma
 
 ## Projects Overview
 
-### 1. **Form with Laravel, PHP, and MySQL**
+### 1. **Form with Laravel, and MySQL**
 
-This project is a form submission system built using Laravel, PHP, and MySQL. It demonstrates how to handle form data, perform validation, and store/delete the data in a MySQL database using Laravel’s Eloquent ORM.
+This project is a form submission system built using Laravel, and MySQL. It demonstrates how to handle form data, perform validation, and store/delete the data in a MySQL database using Laravel’s Eloquent ORM.
 
 **Sneak Peek:**
 
