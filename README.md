@@ -6,7 +6,7 @@ Welcome to my repository of PHP projects! This repository is a collection of sma
 
 ### 1. **Form with Laravel, PHP, and MySQL**
 
-This project is a form submission system built using Laravel, PHP, and MySQL. It demonstrates how to handle form data, MVC, perform validation, and store/delete the data in a MySQL database using Laravel’s Eloquent ORM.
+This project is a form submission system built using Laravel, PHP, and MySQL. It demonstrates how to handle form data, perform validation, and store/delete the data in a MySQL database using Laravel’s Eloquent ORM.
 
 **Sneak Peek:**
 
@@ -16,7 +16,7 @@ This project is a form submission system built using Laravel, PHP, and MySQL. It
 
 ### 2. **Restaurant Page**
 
-This project is a dynamic restaurant web page that displays menu items, special offers, and other information. The page is built using PHP to render content dynamically based on the data stored in a MySQL database.
+This project is a simple restaurant web page that displays menu items, special offers, and other information. The page is built using PHP.
 
 **Sneak Peek:**
 
